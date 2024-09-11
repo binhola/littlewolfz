@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: M1 General Physics
 ---
+## Plasma
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+## Mathematical and Statistical Methods
+
