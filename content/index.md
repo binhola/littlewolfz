@@ -6,4 +6,5 @@ title: M1 General Physics
 1.  [[Debye Length]]
 
 ## Mathematical and Statistical Methods
+1. [[MSM]]
 
