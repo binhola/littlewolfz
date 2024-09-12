@@ -1,17 +1,16 @@
 ---
 longform:
   format: scenes
-  title: plasma
+  title: universe
   workflow: Default Workflow
   sceneFolder: /
   scenes:
-    - Debye Length
-    - Plasma
-    - Debye Sphere and Characteristic Time
-    - Questions
-    - Exercise
+    - Astrophysics
+    - Cosmology
+    - Interstellar medium
+    - Mean molecular mass
   sceneTemplate: templates/chapter.md
   ignoredFiles:
     - Untitled
-    - Untitled
+    - Universe
 ---
