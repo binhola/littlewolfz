@@ -73,10 +73,9 @@ A = \dfrac{r_0 \sqrt{m_N V_0'}}{\hbar} = \alpha \sqrt{\eta}
 $$
 If $A \gg 1$, the action $\gg \hbar$, we can treat the system classically. If $A \gtrsim 1$, the quantum effect becomes significant. 
 
-**Quantality $\Lambda$** carries the similar information to action $A$. However, we will deduce it using the ratio of zero point kinetic energy $T_0$ and magnitude of interaction $V_0'$. In the zero point kinetic energy case, the system is at rest, but because of the non-negligible quantum effect, we have to consider $\Delta p = \dfrac{\hbar}{\Delta x}$
+**Quantality $\Lambda$** carries the similar information to action $A$. However, we will deduce it using the ratio of zero point kinetic energy $T_0$ and magnitude of interaction $V_0'$. In the zero point kinetic energy case, the system is at rest, but because of the non-negligible quantum effect, we have to consider $\Delta p = \dfrac{\hbar}{\Delta x} = \dfrac{\hbar}{r_0}$ and $T_0 \simeq \dfrac{\Delta p^2}{2m_N} = \dfrac{\hbar^2}{2m_Nr_0^2}$ . Thus:
 
 $$
-\Lambda = \dfrac{T_0}{V_0'}
+\Lambda = \dfrac{T_0}{V_0'} \simeq \dfrac{(\hbar c)^2}{2r_0^2m_Nc^2V_0'} = \dfrac{1}{A^2}
 $$
-
-$$\hbar = mc^2 \dfrac{1}{4\pi r_0^2}$$
+Similar to action A, if $\Lambda$ is large $\rightarrow$ $T_0$ dominates, so the system will be delocalised (Quantum liquid)
