@@ -1,5 +1,5 @@
 ---
-title: Exercise
+title: Star Tutorial
 draft: false
 tags:
 ---

@@ -4,7 +4,7 @@ In the Nuclei course, we do dimensionless analysis of 4 quantities: coupling con
 - *Coupling constant $\alpha$* characterises the four fundamental forces and displays how important they are in nuclei. The notable conclusion we will see after the analysis is that *strong force dominates in the nuclei over the three others*.
 - *Spin-orbit parameter $\eta$* characterises the *spin-orbit effect* (coupling of sping and orbital angular momentum) that can impact the shell structure by adding a term to potential $V_{LS}$. One of important conclusion is that by evaluating $V_{LS}$ with the help of $\eta$, we can see that it is negligible in atom but significant in nuclei. 
 - *Action* A shows if the quantum effects is important in the system, as the action (a scalar quantity describes the balance between kinetic and potential energy) gets close to $\hbar$ due to Heisenberg relation. 
-- *Quantality $\Lambda$* is similar to *Action* A as it determines the state of matter if it is [[1. State of matter|quantum Liquid]] or not
+- *Quantality $\Lambda$* is similar to *Action* A as it determines the state of matter if it is [[State of matter|quantum Liquid]] or not
 ## Three quantities 
 Whenever we want to understand the behavior of a many-body system, we resolve to its equation of motion, in this case, the *Schrodinger equation*. Then, we need the information on the interaction of many-body system that we are dealing with including:
 - $V_0'$ : Potential energy - typical magnitude of interaction

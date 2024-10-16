@@ -15,20 +15,14 @@ Examples of plasmas:
 - Flourescent lighting
 
 ## Some characteristics of plasma
-[[1. Debye Length]]
-
-[[2. Plasma Oscillation]]
-
-[[3. Fluid model of plasma]]
-
-[[4. Kinetic theory]]
-
-[[5. Magnetic confinement]]
-
+1. [[Debye Length]]
+2. [[Plasma Oscillation]]
+3. [[Fluid model of plasma]]
+4. [[Kinetic theory]]
+5. [[Magnetic confinement]]
 ## Question & exercise
-[[Questions]]
-
-[[content/M1 General Physics/plasma/Exercise|Exercise]]
+1. [[Questions]]
+2. [[content/M1 General Physics/plasma/Exercise/Exercise|Exercise]]
 
 
 

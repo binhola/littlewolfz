@@ -1,3 +1,9 @@
+---
+title: Principle Component Analysis
+tags:
+  - maths
+  - PCA
+---
 ## Statistics
 
 ##### Consider $X$ as a random variable of $N$ entries

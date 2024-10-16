@@ -1,3 +1,9 @@
+---
+title: Linear Algebra
+tags:
+  - maths
+---
+
 > *A mathematician, like a painter or poet, is a maker of patterns. If his patterns are more permanent than theirs, it is because they are made with ideas* - Godfrey Hardy 
 ## Vector 
 
