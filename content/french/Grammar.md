@@ -1,4 +1,4 @@
-## Adjectives 
+## L'accord des adjectifs
 In french, adjectives must agree with *gender* and *number* with the noun they describe
 
 - Masculin: no change 
@@ -21,5 +21,11 @@ Possesive adjective must agree with the noun they modify in gender and number.
 ## Vocabulary
 - fiable = reliable 
 Ex: Leur voiture est vieille mais fiable
+
+## L'expression de la cause
+
+
+
+
 
 

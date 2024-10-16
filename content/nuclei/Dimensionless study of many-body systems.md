@@ -62,6 +62,7 @@ Therefore, the coupling constant of weak interaction for two protons at 1 fm dis
 | Gravity          | graviton ?      | ~ $10^{-39}$          | $\infty$              |
 ## Spin-orbit parameter $\eta$
 
+Mass of nuclei over the depth of potential well
 $$
 \eta = \dfrac{m_Nc^2}{V_0'}
 $$

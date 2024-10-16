@@ -9,9 +9,12 @@ Examples of plasmas:
 - Flourescent lighting
 
 Most plasma behave classically, following Boltzmann statistics.
-### Some notions
+### Some concepts
 1. [[Debye Length]]
 2. [[Debye Sphere and Characteristic Time]]
+3. [[Magnetic confinement]]
+4. [[Fluid model of plasma]]
+5. [[Kinetic theory]]
 ### Questions and exercises
 1. [[Questions]]
-2. [[Exercise]]
+2. [[content/plasma/Exercise]]
