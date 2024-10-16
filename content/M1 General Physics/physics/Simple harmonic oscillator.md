@@ -1,7 +1,7 @@
 ## Spring harmonic oscillator
 Let's start with an example on a spring:
 
-![spring](images/spring.png)
+![spring](content/M1%20General%20Physics/physics/images/spring.png)
 
 where the spring force is represented by 
 $$F = -kx$$ 
@@ -34,13 +34,13 @@ And $F = ma = -kx$, so $\dfrac{dE}{dt} = 0$, the total energy is indeed conserve
 We have 
 
 $$ F = -\dfrac{dU}{dx} \Rightarrow U = \frac{1}{2}kx^2$$
-![potential](images/potential.png)
+![potential](content/M1%20General%20Physics/physics/images/potential.png)
 
 The equilibrium is at the bottom of the potential well, and the system is oscillating around the equilibrium. 
 
 We can approximate any random potential $U(x)$, we can try to solve the equation $m\dfrac{d^2 x}{dt^2 } =-\dfrac{dU}{dx}$ again, to find trajectory equation $x(t)$. 
 
-![Random_Potential](images/random_potential.png)
+![Random_Potential](content/M1%20General%20Physics/physics/images/random_potential.png)
 
 We can approach this problem by first finding the equilibrium point of this random potential curve, where the force on the particle vanishes, so the slope of the potential will be 0 , a stable equilibrium is at the bottom of a well as opposed to the top of the hill. Therefore, if we try to zoom out at a bottom of a potential well, we can approximate it as a simple Harmonic Oscillator potential. We can prove that using a Taylor Series:
 

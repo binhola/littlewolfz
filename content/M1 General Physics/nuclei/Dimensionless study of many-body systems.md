@@ -27,7 +27,7 @@ $$
 $$
 2. **Strong**: We use the experimental result of a nucleon-nucleon interaction which is given by this graph:
 
-![Strong](images/nucleon-nucleon-potential.png)
+![Strong](content/M1%20General%20Physics/nuclei/images/nucleon-nucleon-potential.png)
 
 We can choose $V_0' = 100 \text{ MeV}$ at $r_0 = 1 \text{ fm}$, thus:
 

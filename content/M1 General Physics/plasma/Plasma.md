@@ -17,4 +17,4 @@ Most plasma behave classically, following Boltzmann statistics.
 5. [[Kinetic theory]]
 ### Questions and exercises
 1. [[Questions]]
-2. [[content/plasma/Exercise]]
+2. [[content/M1 General Physics/plasma/Exercise]]
