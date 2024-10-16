@@ -3,7 +3,6 @@ tags:
   - physics
   - SMS
 ---
-
 ### A- Statistical and Systematic Uncertainty
 
 A length measurement device has an input dynamic range covering $\ell : 10 \, \text{cm to } 10 \, \text{m}$, a statistical uncertainty $\sigma_{\text{stat}} = 10 \, \text{mm}$ and a relative systematic uncertainty $\sigma_{\text{sys}}/\ell = 1\%$.

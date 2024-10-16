@@ -22,6 +22,7 @@ Examples of plasmas:
 3. [[Fluid model of plasma]]
 4. [[Kinetic theory]]
 5. [[Magnetic confinement]]
+6. [[content/M1 General Physics/Universe/Exercise/Tutorial 1|Tutorial 1]]
 ## Question & exercise
 1. [[Questions]]
 2. [[Exercise|Exercise]]

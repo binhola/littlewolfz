@@ -11,7 +11,8 @@ My interest is Cosmology and Astrophysics. I also love mathematics and programmi
 3. [[content/M1 General Physics/Nuclei/Index|Nuclei]]
 4. [[content/M1 General Physics/Plasma/Index|Plasma]]
 5. [[content/M1 General Physics/Mathematical & Statistical Method/Index|Mathematical and statistical Physics]]
-6. [[content/M1 General Physics/Sensors, Measurements and Signal Processing/Index|Sensors, Measurements and Signal processing]]
+6. [[content/M1 General Physics/Plasma/Index|Index]]
+7. [[content/M1 General Physics/Sensors, Measurements and Signal Processing/Index|Sensors, Measurements and Signal processing]]
 ### Undergraduate works
 
 
