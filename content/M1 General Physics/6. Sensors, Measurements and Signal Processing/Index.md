@@ -9,7 +9,7 @@ tags:
 [[Fourier Transform]]
 
 ## Tutorial
-1. [[content/M1 General Physics/Sensors, Measurements and Signal Processing/Tutorial/Tutorial 1]]
+1. [[content/M1 General Physics/6. Sensors, Measurements and Signal Processing/Tutorial/Tutorial 1]]
 2. [[Tutorial 2]]
 
 
