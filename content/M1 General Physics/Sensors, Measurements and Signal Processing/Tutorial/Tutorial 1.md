@@ -2,6 +2,9 @@
 tags:
   - physics
   - SMS
+title: SMS Tutorial 1
+aliases:
+  - SMS tuto 1
 ---
 ### A. Temperature Sensor Response
 
