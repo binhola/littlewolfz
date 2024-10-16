@@ -3,6 +3,7 @@ title: Nuclei
 tags:
   - physics
   - nuclei
+aliases:
 ---
 
 1. [[State of matter]]

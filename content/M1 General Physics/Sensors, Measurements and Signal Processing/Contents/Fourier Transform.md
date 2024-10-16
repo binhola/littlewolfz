@@ -6,8 +6,7 @@ tags:
 draft: true
 ---
 
-Discovered by Joseph Fourier
-
+Discovered by Joseph Fourier 
 ### Fourier transform
 $$x(j\omega) = \int_{-\infty}^{\infty} x(t) e^{-j\omega t} dt$$
 ### Inverse fourier transform
