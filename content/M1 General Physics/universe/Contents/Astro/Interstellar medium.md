@@ -1,7 +1,10 @@
 ---
 title: Interstellar medium
 draft: false
-tags: []
+tags:
+  - physics
+  - astro
+  - universe
 ---
  Baryonic matter of the universe mostly stays inside **Interstellar Medium** (ISM) containing of molecular, atomic and ionized gas, with variety of densities and temperature. In general, ISM will be heated by high-energy ionized particles so-called **Cosmic Rays** and cooled by **dust**. Molecular clouds are the most interesting and dynamical places because they are star-forming regions. Stars will also feedback to ISM through mechanical (outflows, shocks), radiation (photodissociation & photoionization) and elemement enrichments through Core-collapse Supernova (CCSN). 
 

@@ -1,7 +1,9 @@
 ---
 title: Debye Length
 draft: false
-tags: []
+tags:
+  - physics
+  - plasma
 ---
 The **Debye length** $\lambda_D$ characterizes the distance over which *electrostatic potentials* are screened in a plasma due to the presence of mobile charges. It shows how the potential of a charge is reduced due to the rearrangement of surrounding charges in the plasma.
 ## Assumptions

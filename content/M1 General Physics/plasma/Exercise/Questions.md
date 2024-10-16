@@ -1,3 +1,8 @@
+---
+tags:
+  - physics
+  - plasma
+---
 1. Can photon exists in the fusion plasma? 
 - No. Since the energy scale for fusion nuclei ~ 50keV, but the energy scale for molecules ~ 10eV => the plasma is fully ionized
 2. Can we ionized gas with 1eV temperature?

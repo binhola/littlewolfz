@@ -1,7 +1,9 @@
 ---
 title: Exercise 1
 draft: false
-tags: []
+tags:
+  - physics
+  - plasma
 ---
 1. Calculate Debye length $\lambda_D$, number of particles in Debye sphere $N_D$ and the characteristic response time $T_D$ inside Debye sphere for:
 - Discharge: $k_B T$ = $1\text{ eV}$ and $n_0 = 10^{10} \text{cm}^{-3}$

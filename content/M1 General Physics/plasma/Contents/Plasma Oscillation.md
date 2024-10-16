@@ -1,3 +1,8 @@
+---
+tags:
+  - physics
+  - plasma
+---
 ## Debye shielding and Debye sphere
 Debye shielding is a phenomenon when we insert a test charge inside a plasma, the free charged particles inside the plasma will surround the test charge, shielding the electrostatic potential from charge. This can happen if free charges do not have enough kinetic energy to overcome the attractive potential energy of the test charge. 
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - physics
+  - SMS
+---
 Every measurement has uncertainty
 
 $$

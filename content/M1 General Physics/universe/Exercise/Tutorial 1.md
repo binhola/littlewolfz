@@ -2,6 +2,9 @@
 title: Star Tutorial
 draft: false
 tags:
+  - astro
+  - physics
+  - universe
 ---
 ---
 ### Gravitational Field and Mass Density Law

@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - universe
+  - astro
+---
 ## What is a star ?
 
 A star is a complex system held together by self-gravity, collapse is resisted by internal pressure. Since stars continually radiate into space, there must be a continual energy source.

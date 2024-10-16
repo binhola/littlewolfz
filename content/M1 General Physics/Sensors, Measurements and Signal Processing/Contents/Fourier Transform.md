@@ -1,3 +1,11 @@
+---
+tags:
+  - maths
+  - physics
+  - SMS
+draft: true
+---
+
 Discovered by Joseph Fourier
 
 ### Fourier transform

@@ -1,4 +1,9 @@
-
+---
+tags:
+  - physics
+  - plasma
+draft:
+---
 Distribution function $f(\mathbf{r}, \mathbf{v}, t)$ of 7 independent parameters (number density)
 $$
 \begin{aligned}

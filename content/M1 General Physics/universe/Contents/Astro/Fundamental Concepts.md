@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - astro
+  - universe
+---
 ## Fundamental concepts of radiation
 ### Flux and luminosity 
 Radiant flux is the light energy crossing a perpendicular area per unit time

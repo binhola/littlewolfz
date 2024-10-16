@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - plasma
+draft: false
+---
 
 A fluid is a continuous medium characterized by following parameters
 - Mass density $\rho$

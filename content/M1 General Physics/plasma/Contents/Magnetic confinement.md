@@ -1,4 +1,9 @@
-
+---
+tags:
+  - physics
+  - plasma
+draft:
+---
 The non-uniform magnetic field creates from 2 Helmholtz coils
 
 Lorentz force

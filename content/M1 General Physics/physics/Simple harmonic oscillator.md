@@ -1,3 +1,8 @@
+---
+tags:
+  - physics
+  - maths
+---
 ## Spring harmonic oscillator
 Let's start with an example on a spring:
 

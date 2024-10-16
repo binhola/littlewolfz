@@ -1,3 +1,9 @@
+---
+tags:
+  - maths
+  - physics
+---
+
 Any function can be decomposed into a sum of even and odd functions
 
 $$

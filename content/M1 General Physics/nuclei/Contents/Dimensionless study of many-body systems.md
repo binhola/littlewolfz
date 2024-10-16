@@ -1,3 +1,9 @@
+---
+tags:
+  - physics
+  - nuclei
+---
+
 Dimensionless quantities are designed to perform the universal study and comparison between different system. 
 
 In the Nuclei course, we do dimensionless analysis of 4 quantities: coupling constant $\alpha$, spin-orbit parameter $\eta$, action A and quantality $\Lambda$. Each dimensionless quantity has different meaning in nuclei:
