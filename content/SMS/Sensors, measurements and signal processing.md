@@ -1,3 +1,5 @@
 1. [[Measurement]]
-2. [[content/physics/Fourier Transform|Fourier Transform]]
-3. [[Hyperbolic function]]
+2. [[Tutorial 1]]
+3. [[Tutorial 2]]
+4. [[content/physics/Fourier Transform|Fourier Transform]]
+5. [[Hyperbolic function]]

@@ -1,6 +1,3 @@
-
----
-
 ### A. Temperature Sensor Response
 
 1. Perform a second-order Taylor series expansion of the temperature-resistance relationship $R(T)$ at 300 K, 350 K, and 400 K.  

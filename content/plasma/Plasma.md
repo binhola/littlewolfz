@@ -11,7 +11,7 @@ Examples of plasmas:
 Most plasma behave classically, following Boltzmann statistics.
 ### Some concepts
 1. [[Debye Length]]
-2. [[Debye Sphere and Characteristic Time]]
+2. [[Plasma Oscillation]]
 3. [[Magnetic confinement]]
 4. [[Fluid model of plasma]]
 5. [[Kinetic theory]]
