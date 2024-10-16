@@ -22,7 +22,7 @@ Examples of plasmas:
 5. [[Magnetic confinement]]
 ## Question & exercise
 1. [[Questions]]
-2. [[content/M1 General Physics/plasma/Exercise/Exercise|Exercise]]
+2. [[Exercise|Exercise]]
 
 
 

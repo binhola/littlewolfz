@@ -12,7 +12,7 @@ tags:
 3. [[Jeans criteria]]
 4. [[Stellar structure]]
 ### Exercise
-1. [[content/M1 General Physics/universe/Exercise/Tutorial 1|Tutorial 1]]
+1. [[content/M1 General Physics/1. Universe/Exercise/Tutorial 1|Tutorial 1]]
 ## Cosmology
 
 
