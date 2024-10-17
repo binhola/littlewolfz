@@ -13,7 +13,17 @@ My interest is Cosmology and Astrophysics. I also love mathematics and programmi
 5. [[M1 General Physics/Mathematical & Statistical Method/Index|Mathematical and statistical Physics]]
 6. [[M1 General Physics/Sensors, Measurements and Signal Processing/Index|SMS]]
 ### Undergraduate works
-[[Final_Report_GroupProjectB3_Carina.pdf|Carina Keyhole]]
+
+#### Carina Keyhole: 
+A strong ionization source can dissociate and ionize molecular hydrogen, creating an HII region around it. Thus, it is unexpected for molecules with lower ionization and dissociation potentials to survive in the proximity of an ionization source. Interestingly, previous observations reported the existence of several clumpy regions with emission from carbon monoxide molecules (CO)  in the Keyhole region, next to one of the most luminous massive stars $\eta$ Carina belonging to the Trumpler 16 cluster in the Carina nebula. 
+
+We revisit the keyhole region in the Carina nebula with velocity-resolved observations of rotational transitions of CO and its isotopologues and of hyperfine atomic structure lines from the far infrared and millimeter bands taken from APEX and SOFIA with the aim of studying the physical and chemical properties in the regions where molecular gas is located.
+- [Final_Report_GroupProjectB3_Carina.pdf|Carina Keyhole]]
+- [[Presentation_carina_keyhole.pdf]]
+#### Bachelor thesis
+
+
+
 
 
 
