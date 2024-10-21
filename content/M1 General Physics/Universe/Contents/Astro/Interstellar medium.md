@@ -157,3 +157,5 @@ Integrate all over from 0 to $R$ to get the total internal energy
 $$
 U = -\dfrac{3GM^2}{R^6} \int_0^R r^4dr = -\dfrac{3GM^2}{5R}
 $$
+
+

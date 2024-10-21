@@ -100,13 +100,13 @@ $$
 For the total potential energy
 
 $$
-dU = -\dfrac{Gm(r)dm}{r} = -\dfrac{4 \pi GM r^2 dr}{R}
+dU = -\dfrac{Gm(r)dm}{r} = -\dfrac{G M^2}{R} dr
 $$
 
 Thus, 
 
 $$
-U = -\dfrac{4\pi GM}{R} \int_0^R r^2 dr = -\dfrac{4\pi GMR^2}{3}
+U = -\dfrac{GM^2}{R} \int_0^R dr = -\dfrac{GM^2}{R}
 $$
 
 ---
