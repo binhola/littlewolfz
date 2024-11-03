@@ -15,7 +15,6 @@ $$
 \mathbf{a} = \begin{pmatrix} a_1 \\ a_2 \end{pmatrix} = a_1\begin{pmatrix} 1 \\0 \end{pmatrix} + a_2\begin{pmatrix} 0 \\1 \end{pmatrix} = a_1 \mathbf{i} + a_2 \mathbf{j}
 $$
 $i$ and $j$ are *unit coordinate vectors*.
-]
 - Any vector can be written as *linear combination of unit coordinate vectors*
 - In other words, in this case, two unit coordinate vectors *span* the 2D space 
 

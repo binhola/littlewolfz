@@ -1,6 +1,6 @@
 ---
 title: Star Tutorial
-draft: false
+draft: true
 tags:
   - astro
   - physics
@@ -143,15 +143,10 @@ $$
 \mu = \dfrac{1.4n_H}{0.5n_H + 0.1n_H} = \dfrac{1.4}{0.6} \simeq 2.33
 $$
 
-For a fully ionized gas, if $\rm H \rightarrow H^+$ and $\rm He \rightarrow He^+$ 
+For a fully ionized gas, if $\rm H \rightarrow H^+ e^-$ and $\rm He \rightarrow He^{2+}e^-$ 
 
 $$
 \mu = \dfrac{1.4n_H}{2n_H + 0.1 \times 2n_H} = \dfrac{1.4}{2.2} \simeq 0.64
-$$
-If $\rm H \rightarrow H^+$ and $\rm He \rightarrow He^{++}$ 
-
-$$
-\mu = \dfrac{1.4n_H}{2n_H + 0.1 \times 3n_H} = \dfrac{1.4}{2.3} \simeq 0.61
 $$
 
 ---

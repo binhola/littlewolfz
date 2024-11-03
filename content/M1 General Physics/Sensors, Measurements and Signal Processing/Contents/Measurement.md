@@ -2,6 +2,7 @@
 tags:
   - physics
   - SMS
+draft: true
 ---
 Every measurement has uncertainty
 
@@ -68,13 +69,10 @@ $$
 $$
 
 3. Power rule: $z = x^n$
-
 $$
 \sigma_z = |n|x^{n-1} \sigma_x
 $$
-
 4. Factor rule: $z = Cx$
-
 $$
 \sigma_z = |C| \sigma_x
 $$

@@ -15,7 +15,7 @@ We only consider magnetic field $\mathbf{B}(r, \theta, z)$ pointed primarily in 
 $$
 \mathbf{F} = q\mathbf{v} \times \mathbf{B} = q 
 \begin{pmatrix} 
-\hat r & 0 & \hat z \\ 
+\hat r & \hat \theta & \hat z \\ 
 v_r & v_\theta & v_z \\
 B_r & 0 & B_z
 \end{pmatrix} = q[v_\theta B_z \hat r + (B_r v_z - v_r B_Z)\hat \theta - v_\theta B_r \hat z]
@@ -83,12 +83,12 @@ $$
 Therefore,
 
 $$
-\dfrac{B_0}{B'} = \dfrac{v_{\perp0}^2}{v_\perp^2} = \dfrac{v_{\perp0}^2}{v_0^2} = \sin ^2 \theta
+\dfrac{B_0z}{Bz} = \dfrac{v_{\perp0}^2}{v_\perp^2} = \dfrac{v_{\perp0}^2}{v_0^2} = \sin ^2 \theta
 $$
 
 Particles with smaller $\theta$ mirror in regions of higher $B$. If $\theta$ is too small, $B'$ exceeds $B_{\rm max}$, then the particles do not mirror at all.
 
-Replace $B'$ by $B_{\rm m}$, given
+Replace $B$ by $B_{\rm m}$, given
 
 $$
 \sin^2 \theta_m = \dfrac{B_0}{B_m} = \dfrac{1}{R_m}

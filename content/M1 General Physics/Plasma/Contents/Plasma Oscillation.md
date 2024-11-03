@@ -79,7 +79,7 @@ $$
 \dfrac{\partial^2 \delta n}{\partial t^2} + n_0 \nabla \cdot \dfrac{\partial}{\partial t} \delta v = 0
 
 $$
-### Gauss's law
+
 We know that  $\dfrac{\partial}{\partial t} \delta v=\mathbf{a}=\dfrac{\mathbf{F}}{m} = \dfrac{-e\mathbf{E}}{m}$. 
 
 Substitute into the equation above:

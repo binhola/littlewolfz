@@ -5,6 +5,7 @@ tags:
 title: SMS Tutorial 1
 aliases:
   - SMS tuto 1
+draft: true
 ---
 ### A. Temperature Sensor Response
 

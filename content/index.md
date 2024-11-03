@@ -7,14 +7,19 @@ Hi! My name is Nguyen Thi Yen Binh. I am Vietnamese. I am currently a student in
 
 My interest is Cosmology and Astrophysics. I also love mathematics and programming.
 ## Undergraduate works
-#### Bachelor thesis
-The Cosmic Microwave Background (CMB) polarization is a crucial tool for probing the mysteries of cosmic inflation through the measurement of primordial B-modes. Achieving this requires meticulous control over instrumental systematic effects. In this report, we present an instrumental model that focuses on two primary effects: intensity-to-polarization leakage and cross-polarization within a parametric component separation framework. 
+#### **Bachelor thesis:** Characterization of Instrumental Effects for B-Mode Polarization Measurements of Cosmic Microwave Background.
+The Cosmic Microwave Background (CMB) polarization is a crucial tool for probing the mysteries of cosmic inflation through the measurement of primordial B-modes. Achieving this requires meticulous control over instrumental systematic effects. In this research, we present an instrumental model that focuses on two primary effects: intensity-to-polarization leakage and cross-polarization within a parametric component separation framework. 
 
 We estimate the upper limits for each parameter to meet the scientific requirements for next-generation CMB measurement. Using Markov Chain Monte Carlo (MCMC) methods to optimize the $\chi^2$ log-likelihood function, we constrain the parameters and estimate the data volume needed to reduce statistical errors within the upper limits of the parameters. We analyze unpolarized atmospheric data with and without the use of a half-wave plate (HWP). 
 
 Our findings indicate that polarized data is essential for fully characterizing and calibrating all parameters in the HWP model. We further explore the potential of using drone-based fully polarized data for parameter constraints.
-
 -  Bachelor thesis: [[Bachelor_thesis_Binh.pdf|Instrumental systematic effects on CMB B-modes measurement]]
+#### Supermassive Black Hole Feedback on Galaxy Formation in IllustrisTNG Simulations
+Supermassive black holes (SMBHs) with masses exceeding millions of solar masses are typically found at the centers of most galaxies in the local Universe (Kormendy & Ho 2013; Saglia et al. 2016). Acting as engines for feedback from Active Galactic Nuclei (AGN), accreting SMBHs release significant energy (~10²⁰ erg/s per gram), impacting galaxy formation and evolution. This SMBH feedback is integral to cosmological simulations of galaxy formation (Vogelsberger et al. 2019).
+
+In this project, we will analyze SMBH feedback effects on galaxy evolution using IllustrisTNG simulations (TNG). TNG's cosmological magnetohydrodynamical framework has demonstrated the role of SMBH feedback in producing realistic galaxy properties, including stellar and gas components (Pillepich et al. 2019; Truong 2020; Ayromlou et al. 2023). Our analysis will focus on SMBH feedback’s influence on star formation rates, baryon mass fractions, gas halo temperatures, and SMBH-halo mass relationships.
+- [[SMBH_feedback_report.pdf|Report smbh feedback on galaxy formation]]
+- [[SMBH_presentation.pdf|Presentation smbh feedback on galaxy formation]]
 #### Carina Keyhole
 A strong ionization source can dissociate and ionize molecular hydrogen, creating an HII region around it. Thus, it is unexpected for molecules with lower ionization and dissociation potentials to survive in the proximity of an ionization source. Interestingly, previous observations reported the existence of several clumpy regions with emission from carbon monoxide molecules (CO)  in the Keyhole region, next to one of the most luminous massive stars $\eta$ Carina belonging to the Trumpler 16 cluster in the Carina nebula. 
 

@@ -52,14 +52,14 @@ $$
 The charge density $\rho$ then becomes:
 $$
 
-\rho = e(n_i - n_e) \approx e\left(n_0 - n_0 + n_0 \frac{e \phi}{k_B T}\right) = \frac{e^2 n_0 \phi}{k_B T}
+\rho = -e(n_i - n_e) \approx -e\left(n_0 - n_0 + n_0 \frac{e \phi}{k_B T}\right) = -\frac{e^2 n_0 \phi}{k_B T}
 
 $$
 ## Substitute into Poisson's Equation
 Substitute the linearized charge density $\rho$ into Poisson's equation:
 $$
 
-\nabla^2 \phi = -\frac{\rho}{\varepsilon_0} = -\frac{1}{\varepsilon_0} \left(\frac{e^2 n_0 \phi}{k_B T}\right)
+\nabla^2 \phi = -\frac{\rho}{\varepsilon_0} = \frac{1}{\varepsilon_0} \left(\frac{e^2 n_0 \phi}{k_B T}\right)
 
 $$
 This simplifies to:
@@ -68,11 +68,15 @@ $$
 \nabla^2 \phi = \frac{\phi}{\lambda_D^2}
 
 $$
-where $\lambda_D$ is the **Debye length**.
+where $\lambda_D$ is the **Debye length**.v
 ## Debye Length
 The **Debye length** $\lambda_D$ is given by:
 $$
 
 \lambda_D = \sqrt{\frac{\varepsilon_0 k_B T}{e^2 n_0}}
+
+$$
+## Potential
+$$
 
 $$
