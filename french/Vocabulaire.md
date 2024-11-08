@@ -6,7 +6,7 @@
 - rez-de-chausée (nm) : ground floor 
 - premier/deuxiéme/troisième étage
 
-## À la plage
+### À la plage
 
 - la mer
 - emporter: take = prendre 
@@ -110,5 +110,27 @@ Appliquer
 - emprunter = borrow / to travel
 - la vitesse du son = the speed of sound
 - retomber = fall back
-- 
+
+### La république française 
+
+La france est une démocratie
+
+La Président de la République
+
+Parlementaires =  nghị sĩ
+
+les maires = mayors
+
+élire -> elle est élue par les parlementaires
+
+suffrage (universel) = quyền bầu cử
+
+signifier = mean
+
+les citoyens
+
+
+
+
+
 

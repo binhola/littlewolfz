@@ -2,6 +2,7 @@
 tags:
   - physics
   - nuclei
+draft:
 ---
 
 Dimensionless quantities are designed to perform the universal study and comparison between different system. 
@@ -85,4 +86,4 @@ If $A \gg 1$, the action $\gg \hbar$, we can treat the system classically. If $A
 $$
 \Lambda = \dfrac{T_0}{V_0'} \simeq \dfrac{(\hbar c)^2}{2r_0^2m_Nc^2V_0'} = \dfrac{1}{A^2}
 $$
-Similar to action A, if $\Lambda$ is large $\rightarrow$ $T_0$ dominates, so the system will be delocalised (Quantum liquid)
+Similar to action A$\gtrsim 1$, if $\Lambda \lesssim 1$ the large quantum effect dominates.

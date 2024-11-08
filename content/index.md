@@ -26,13 +26,25 @@ A strong ionization source can dissociate and ionize molecular hydrogen, creatin
 We revisit the keyhole region in the Carina nebula with velocity-resolved observations of rotational transitions of CO and its isotopologues and of hyperfine atomic structure lines from the far infrared and millimeter bands taken from APEX and SOFIA with the aim of studying the physical and chemical properties in the regions where molecular gas is located.
 - [[Final_Report_GroupProjectB3_Carina.pdf|Report Carina Keyhole]]
 - [[Presentation_carina_keyhole.pdf|Presentation Carina Keyhole]]
+#### Other works
+-  [[GroupB-hardwarecamp.pdf|The second Hardware camp for Fast and Low-Light detection]]
 ## M1 General Physics notes
-1. [[M1 General Physics/Universe/Index|Universe]]
-2. [[M1 General Physics/Particle/Index|Particle]]
-3. [[M1 General Physics/Nuclei/Index|Nuclei]]
-4. [[M1 General Physics/Plasma/Index|Plasma]]
-5. [[M1 General Physics/Mathematical & Statistical Method/Index|Mathematical and statistical Physics]]
-6. [[M1 General Physics/Sensors, Measurements and Signal Processing/Index|SMS]]
+### Semester 1
+1. [[M1 General Physics/Universe/Index|Universe]] (Astrophysics & Cosmology)
+1. [[M1 General Physics/Particle/Index|Particle]]
+2. [[M1 General Physics/Nuclei/Index|Nuclei]]
+3. [[M1 General Physics/Plasma/Index|Plasma]]
+4. [[M1 General Physics/Mathematical & Statistical Method/Index|Mathematical and statistical Physics]]
+5. [[M1 General Physics/Sensors, Measurements and Signal Processing/Index|Sensors, Measurement and Signal Processing]]
+6. Experimental Physics: Cosmology Data Analysis & Nuclear Physics
+### Semester 2
+1. General Relativity & Cosmology
+2. Astroparticles & Astrophysics
+3. Quantum Field Theory
+4. Advanced Mathematics for Physics
+5. Research Project
+6. Internship
+
 
 
 
