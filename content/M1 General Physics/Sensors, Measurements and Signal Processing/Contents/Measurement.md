@@ -2,7 +2,7 @@
 tags:
   - physics
   - SMS
-draft: true
+draft: false
 ---
 Every measurement has uncertainty
 

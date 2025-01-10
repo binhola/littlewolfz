@@ -4,7 +4,7 @@ tags:
   - physics
   - plasma
   - statphys
-draft: true
+draft: false
 ---
 ## Macro-state and micro-state:
 A **macro-state** defines by an energy $E$ $\rightarrow$ different arrangement/configuration of atoms/molecules so called **micro-states** $E_i$.

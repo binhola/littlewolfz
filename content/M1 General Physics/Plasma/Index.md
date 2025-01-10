@@ -25,7 +25,7 @@ Examples of plasmas:
 6. [[content/M1 General Physics/Universe/Exercise/Tutorial 1|Tutorial 1]]
 ## Question & exercise
 1. [[Questions]]
-2. [[Exercise|Exercise]]
+2. [[content/M1 General Physics/Plasma/Exercise/Exercise|Exercise]]
 
 
 
