@@ -1,5 +1,5 @@
 ---
-title: Cosmology
+title: 1. Introduction to Cosmology
 draft: false
 tags:
   - physics

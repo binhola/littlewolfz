@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: 5. Cosmological Horizon
 draft: false
 tags:
 ---
@@ -36,7 +36,7 @@ When $a = 0 \rightarrow z=\infty$ and $a=1 \rightarrow z = 0$.
 
 **Solution**: 
 - Critical density = flat geometry, so $\Omega_{k,0} = 0$
-- We have the rebb b.        lation: $$\Omega_{k,0} + \Omega_{T,0} = 1$$
+- We have the relation: $$\Omega_{k,0} + \Omega_{T,0} = 1$$
 
 So 
 $$\Omega_{T,0} = 1$$
@@ -159,7 +159,7 @@ with $\chi$ is the comoving distance of the observed source:
 $$
 \chi = D_c(z)
 $$
-So
+So for Euclidean:
 $$
 D_A{z} = a(z) D_c(z)
 $$

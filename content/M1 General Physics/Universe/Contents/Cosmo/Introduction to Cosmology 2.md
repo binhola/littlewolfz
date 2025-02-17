@@ -1,3 +1,6 @@
+---
+title: 2. Hubble Lemaitre law
+---
 
 Given the FLRW metric and the geometry of universe, there are two unknowns that we need to solve: $k$ and $a(t)$
 

@@ -1,5 +1,5 @@
 ---
-title: <% tp.file.title %>
+title: 4. Models of universe
 draft:
 ---
 **Friedmann equation**

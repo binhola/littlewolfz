@@ -38,7 +38,7 @@ We revisit the keyhole region in the Carina nebula with velocity-resolved observ
 5. [[M1 General Physics/Sensors, Measurements and Signal Processing/Index|Sensors, Measurement and Signal Processing]]
 6. Experimental Physics: Cosmology Data Analysis & Nuclear Physics
 ### Semester 2
-1. General Relativity & Cosmology
+1. [[content/M1 General Physics/General Relativity/Index|General Relativity And Cosmology]]
 2. Astroparticles & Astrophysics
 3. Quantum Field Theory
 4. Advanced Mathematics for Physics
