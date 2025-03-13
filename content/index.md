@@ -28,7 +28,6 @@ We revisit the keyhole region in the Carina nebula with velocity-resolved observ
 - [[Presentation_carina_keyhole.pdf|Presentation Carina Keyhole]]
 #### Other works
 -  [[GroupB-hardwarecamp.pdf|The second Hardware camp for Fast and Low-Light detection]]
-- [[Cosmology_Data_Analysis_M1_GP.pdf]]
 ## M1 General Physics notes
 ### Semester 1
 1. [[M1 General Physics/Universe/Index|Universe]] (Astrophysics & Cosmology)
@@ -37,7 +36,7 @@ We revisit the keyhole region in the Carina nebula with velocity-resolved observ
 3. [[M1 General Physics/Plasma/Index|Plasma]]
 4. [[M1 General Physics/Mathematical & Statistical Method/Index|Mathematical and statistical Physics]]
 5. [[M1 General Physics/Sensors, Measurements and Signal Processing/Index|Sensors, Measurement and Signal Processing]]
-6. Experimental Physics: Cosmology Data Analysis & Nuclear Physics
+6. Experimental Physics: [[Cosmology_Data_Analysis_M1_GP.pdf|Cosmology Data Analysis]] & Nuclear Physics
 ### Semester 2
 1. [[content/M1 General Physics/General Relativity/Index|General Relativity And Cosmology]]
 2. Astroparticles & Astrophysics
