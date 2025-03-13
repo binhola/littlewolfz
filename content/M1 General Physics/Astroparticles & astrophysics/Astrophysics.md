@@ -60,4 +60,4 @@ Coronal gas (HIM)
 - very hot, tenuous gas
 - filled half of the volume, 1 % mass, contains also very high ionized species, such as $O_{VI}$ 
 - heated to $10^5 - 10^6$ K by the fast stellar winds and blast waves from novae and supernovaes.
-- 
+

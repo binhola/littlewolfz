@@ -5,4 +5,5 @@ longform:
   sceneFolder: /
   scenes: []
   ignoredFiles: []
+draft: true
 ---

@@ -18,3 +18,15 @@ draft: true
 
 Evaluation: errors on intrinsic ellipticities and fluxes
 
+## Research project report
+
+#### Dark Energy Survey
+
+#### Weak Lensing and the Impact of Galaxy Blending
+
+#### Machine Learning for Deblending: Variational Autoencoders (VAEs)
+
+#### Implementation
+
+#### Preliminary Results and Future Work
+

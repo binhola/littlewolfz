@@ -37,7 +37,7 @@ E^2(a) = \Omega_m(a) = \Omega_{m, 0} a^{-3} = a^{-3}
 $$
 From Friedmann equation 1:
 $$
-H^2(t) = H^2_0 E^2(a) = H_0^2 a^-3 = \left(\dfrac{\dot a}{a}\right)^2
+H^2(t) = H^2_0 E^2(a) = H_0^2 a^{-3} = \left(\dfrac{\dot a}{a}\right)^2
 $$
 So 
 $$

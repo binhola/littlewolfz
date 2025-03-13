@@ -105,7 +105,7 @@ $$
 \tau = f_{\rm abs} = \dfrac{\sigma_{\rm total}}{A} = nL\sigma
 $$
 
-- If $\tau < 1 \rightarrow$ optically thin
+- If $\tau < 1 \rightarrow$ optically thin (can lose energy/cool down through radiation)
 - If $\tau > 1 \rightarrow$ optically thick
 - With $\tau = 1$, we can define the **mean free path** (a typical distance travelled before getting absorbed) of a photon: $L = \dfrac{1}{n\sigma}$
 
