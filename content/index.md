@@ -1,6 +1,7 @@
 ---
 title: My Friendly Neighborhood
 tags:
+  - physics
 ---
 ## About me 
 Hi! My name is Binh, and I’m from Vietnam. I’m currently a Master 2 student in _Nuclei, Particles, Astroparticles and Cosmology_, and I previously studied _General Physics_ at the University of Paris-Saclay in France.
