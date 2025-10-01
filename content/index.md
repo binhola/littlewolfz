@@ -1,11 +1,13 @@
 ---
-title: HOME
-tags: []
+title: Friendly Neighborhood
+tags:
 ---
 ## About me 
-Hi! My name is Nguyen Thi Yen Binh. I am Vietnamese. I am a student in Master 2 Nuclei, Particles, Astroparticles and Cosmology and used to be in Master 1 General Physics at University Paris Saclay in France. 
+Hi! My name is Binh, and I’m from Vietnam. I’m currently a Master 2 student in _Nuclei, Particles, Astroparticles and Cosmology_, and I previously studied _General Physics_ at the University of Paris-Saclay in France.
 
-My interest is Cosmology and Astrophysics. I also love mathematics and programming.
+I’m passionate about cosmology and astrophysics, and I have a soft spot for mathematics. I’m especially interested in working at the intersection of theoretical and observational cosmology, as well as in the applications of Bayesian statistics and deep learning to cosmological problems. Running simulations and making cool plots are also parts of the job that I really enjoy.
+
+In my free time, I read manga and watch movies, Christopher Nolan is my cinematic hero. I also love cats and swimming. Cooking is fun too… but onions and raw tomatoes are my Kryptonite.
 ## Projects
 #### *M1 internship: Galaxy Deblending with VAE-Deblender* 
 **Context.** The upcoming data from the Legacy Survey of Space and Time (LSST) at the Vera C. Rubin Observatory is expected to be affected by blending in about two-thirds of galaxies—where light from physically separate galaxies overlaps. This blending reduces the number of galaxies usable for weak lensing studies, making deblending a critical challenge. 
@@ -24,13 +26,13 @@ We estimate the upper limits for each parameter to meet the scientific requireme
 
 Our findings indicate that polarized data is essential for fully characterizing and calibrating all parameters in the HWP model. We further explore the potential of using drone-based fully polarized data for parameter constraints.
 -  Bachelor thesis: [[Bachelor_thesis_Binh.pdf|Instrumental systematic effects on CMB B-modes measurement]]
-#### Supermassive Black Hole Feedback on Galaxy Formation in IllustrisTNG Simulations
+#### *Supermassive Black Hole Feedback on Galaxy Formation in IllustrisTNG Simulations*
 Supermassive black holes (SMBHs) with masses exceeding millions of solar masses are typically found at the centers of most galaxies in the local Universe (Kormendy & Ho 2013; Saglia et al. 2016). Acting as engines for feedback from Active Galactic Nuclei (AGN), accreting SMBHs release significant energy (~10²⁰ erg/s per gram), impacting galaxy formation and evolution. This SMBH feedback is integral to cosmological simulations of galaxy formation (Vogelsberger et al. 2019).
 
 In this project, we will analyze SMBH feedback effects on galaxy evolution using IllustrisTNG simulations (TNG). TNG's cosmological magnetohydrodynamical framework has demonstrated the role of SMBH feedback in producing realistic galaxy properties, including stellar and gas components (Pillepich et al. 2019; Truong 2020; Ayromlou et al. 2023). Our analysis will focus on SMBH feedback’s influence on star formation rates, baryon mass fractions, gas halo temperatures, and SMBH-halo mass relationships.
 - [[SMBH_feedback_report.pdf|Report smbh feedback on galaxy formation]]
 - [[SMBH_presentation.pdf|Presentation smbh feedback on galaxy formation]]
-#### Carina Keyhole
+#### *Carina Keyhole*
 A strong ionization source can dissociate and ionize molecular hydrogen, creating an HII region around it. Thus, it is unexpected for molecules with lower ionization and dissociation potentials to survive in the proximity of an ionization source. Interestingly, previous observations reported the existence of several clumpy regions with emission from carbon monoxide molecules (CO)  in the Keyhole region, next to one of the most luminous massive stars $\eta$ Carina belonging to the Trumpler 16 cluster in the Carina nebula. 
 
 We revisit the keyhole region in the Carina nebula with velocity-resolved observations of rotational transitions of CO and its isotopologues and of hyperfine atomic structure lines from the far infrared and millimeter bands taken from APEX and SOFIA with the aim of studying the physical and chemical properties in the regions where molecular gas is located.
