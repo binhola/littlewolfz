@@ -55,10 +55,9 @@ We revisit the keyhole region in the Carina nebula with velocity-resolved observ
 3. Quantum Field Theory
 4. [[Advanced_Mathematics_for_Physics.pdf|Group Theory]]
 ## M2 NPAC notes
-1. Experimental physics: CMB measurement with atmosphere zenith angle ?
+1. Experimental Physics: CMB Temperature Measurement Using Atmospheric Zenith-Angle Dependence
 2. Detector physics
 3. Astroparticles and Cosmology
-
 
 
 
