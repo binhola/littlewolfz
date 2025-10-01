@@ -42,18 +42,52 @@ We revisit the keyhole region in the Carina nebula with velocity-resolved observ
 -  [[GroupB-hardwarecamp.pdf|The second Hardware camp for Fast and Low-Light detection]]
 ## M1 General Physics notes
 ### Semester 1
-1. [[content/M1 General Physics/Universe/Index|Universe]]
-2. [[content/M1 General Physics/Particle/Index|Particles]]
-3. [[content/M1 General Physics/Nuclei/Index|Nuclei]]
-4. [[content/M1 General Physics/Plasma/Index|Plasma]]
-5. [[content/M1 General Physics/Mathematical & Statistical Method/Index|Mathematical and statistical Physics]]
-6. [[content/M1 General Physics/Sensors, Measurements and Signal Processing/Index|Sensors, Measurement and Signal Processing]]
-7. Experimental Physics: [[Cosmology_Data_Analysis_M1_GP.pdf|Cosmology Data Analysis]]
+#### Universe
+###### Astrophysics
+1. [[Fundamental Concepts]]
+2. [[Interstellar medium]]
+3. [[Jeans criteria]]
+4. [[Stellar structure]]
+5. [[M1 General Physics/Universe/Exercise/Tutorial 1|Star Tutorial]]
+###### Cosmology
+1. [[Introduction to Cosmology]]
+2. [[Introduction to Cosmology 2]]
+3. [[Friedmann Equations]]
+4. [[Models of universe]]
+5. [[Cosmological Horizon]]
+6. [[content/M1 General Physics/Universe/Cosmo/Exercise|Exercise]]
+#### Particles
+1. [[Hyperbolic function]]
+2. [[Simple harmonic oscillator]]
+3. [[Special relativity]]
+#### Nuclei
+1. [[State of matter]]
+2. [[Dimensionless study of many-body systems]]
+3. [[Nuclear shell model]]
+4. [[Midterm 2021-2022]]
+5. [[Final exam notes]]
+#### Plasma
+1. [[Debye Length]]
+2. [[Plasma Oscillation]]
+3. [[Fluid model of plasma]]
+4. [[Kinetic theory]]
+5. [[Magnetic confinement]]
+6. [[content/M1 General Physics/Universe/Exercise/Tutorial 1|Tutorial 1]]
+#### Mathematical and Statistical Physics
+1. [[Principle Component Analysis]]
+#### Sensors, Measurement and Signal Processing
+1. [[Measurement]]
+2. [[Fourier Transform]]
+#### Experimental Physics: 
+1. [[Cosmology_Data_Analysis_M1_GP.pdf|Cosmology Data Analysis]]
 ### Semester 2
-1. [[content/M1 General Physics/General Relativity/Index|General Relativity And Cosmology]]
-2. Astroparticles & Astrophysics
-3. Quantum Field Theory
-4. [[Advanced_Mathematics_for_Physics.pdf|Group Theory]]
+#### General Relativity And Cosmology
+1. [[From Special Relativity to General Relativity]]
+#### Group Theory
+1. [[Advanced_Mathematics_for_Physics.pdf|Group Theory Full Notes]]
+#### Astroparticles & Astrophysics
+#### Quantum Field Theory
+
 ## M2 NPAC notes
 1. Experimental Physics: CMB Temperature Measurement Using Atmospheric Zenith-Angle Dependence
 2. Detector physics
