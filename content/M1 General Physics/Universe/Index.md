@@ -1,5 +1,5 @@
 ---
-title: Universe
+title: Universe Contents
 tags:
   - physics
   - universe
@@ -18,7 +18,7 @@ tags:
 3. [[Friedmann Equations]]
 4. [[Models of universe]]
 5. [[Cosmological Horizon]]
-6. [[M1 General Physics/Universe/Contents/Cosmo/Exercise|Exercise]]
+6. [[content/M1 General Physics/Universe/Cosmo/Exercise|Exercise]]
 
 
 

@@ -1,6 +1,6 @@
 ---
 tags: 
-draft: true
+draft: false
 ---
 ## Special Relativity
 ### Affine spacetime

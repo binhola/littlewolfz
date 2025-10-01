@@ -1,6 +1,6 @@
 ---
 title: Exercise 1
-draft: false
+draft: true
 tags:
   - physics
   - plasma

@@ -2,6 +2,7 @@
 tags:
   - physics
   - plasma
+draft: true
 ---
 1. Can photon exists in the fusion plasma? 
 - No. Since the energy scale for fusion nuclei ~ 50keV, but the energy scale for molecules ~ 10eV => the plasma is fully ionized => no photon release from de-excitation or recombination.
