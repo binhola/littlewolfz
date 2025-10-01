@@ -14,7 +14,7 @@ In my free time, I read manga and watch movies, Christopher Nolan is my cinemati
 
 **Aim.** Deblending algorithms aim to address this challenge using pixel-level, multi-band image data and to recover the weak lensing parameters. 
 
-**Method.** We use deep neural networks, including a generative model–Variational Au- toencoder (VAE) and a regressor. The autoencoder reduces high-dimensional image data into a low-dimensional latent space and reconstructing the image from this space. While the regressor extracts weak lensing parameters from latent space. 
+**Method.** We use deep neural networks, including a generative model–Variational Autoencoder (VAE) and a regressor. The autoencoder reduces high-dimensional image data into a low-dimensional latent space and reconstructing the image from this space. While the regressor extracts weak lensing parameters from latent space. 
 
 **Result.** Using six-band simulated data for an LSST-like survey, we successfully developed a VAE to reconstruct isolated galaxies from blended scenes, along with a regressor that learns ellipticities from the latent space. The regressor outperforms the reconstruction by significantly reducing the bias toward round shapes that is present in the reconstructed images. We also applied the trained VAE and regressor to real DES data for evaluation.
 - Final Report: [[VAE_deblender_final_report_M1_GP_2025.pdf|Galaxy Deblending with VAE-Deblender]]
