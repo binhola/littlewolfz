@@ -3,10 +3,20 @@ title: HOME
 tags: []
 ---
 ## About me 
-Hi! My name is Nguyen Thi Yen Binh. I am Vietnamese. I am currently a student in Master 1 General Physics at University Paris Saclay in France. 
+Hi! My name is Nguyen Thi Yen Binh. I am Vietnamese. I am a student in Master 2 Nuclei, Particles, Astroparticles and Cosmology and used to be in Master 1 General Physics at University Paris Saclay in France. 
 
 My interest is Cosmology and Astrophysics. I also love mathematics and programming.
-## Undergraduate works
+## Projects
+#### *M1 internship: Galaxy Deblending with VAE-Deblender* 
+**Context.** The upcoming data from the Legacy Survey of Space and Time (LSST) at the Vera C. Rubin Observatory is expected to be affected by blending in about two-thirds of galaxies—where light from physically separate galaxies overlaps. This blending reduces the number of galaxies usable for weak lensing studies, making deblending a critical challenge. 
+
+**Aim.** Deblending algorithms aim to address this challenge using pixel-level, multi-band image data and to recover the weak lensing parameters. 
+
+**Method.** We use deep neural networks, including a generative model–Variational Au- toencoder (VAE) and a regressor. The autoencoder reduces high-dimensional image data into a low-dimensional latent space and reconstructing the image from this space. While the regressor extracts weak lensing parameters from latent space. 
+
+**Result.** Using six-band simulated data for an LSST-like survey, we successfully developed a VAE to reconstruct isolated galaxies from blended scenes, along with a regressor that learns ellipticities from the latent space. The regressor outperforms the reconstruction by significantly reducing the bias toward round shapes that is present in the reconstructed images. We also applied the trained VAE and regressor to real DES data for evaluation.
+- Final Report: [[VAE_deblender_final_report_M1_GP_2025.pdf|Galaxy Deblending with VAE-Deblender]]
+- _Presented the talk_ "[[Rencontres_du_Vietnam_2025.pdf|Inference of Weak Lensing Parameters from Blended Galaxies using Generative Neural Networks]]" _at the Rencontres du Vietnam 2025 Cosmology Conference.
 #### **Bachelor thesis:** Characterization of Instrumental Effects for B-Mode Polarization Measurements of Cosmic Microwave Background.
 The Cosmic Microwave Background (CMB) polarization is a crucial tool for probing the mysteries of cosmic inflation through the measurement of primordial B-modes. Achieving this requires meticulous control over instrumental systematic effects. In this research, we present an instrumental model that focuses on two primary effects: intensity-to-polarization leakage and cross-polarization within a parametric component separation framework. 
 
