@@ -1,5 +1,5 @@
 ---
-title: Friendly Neighborhood
+title: My Friendly Neighborhood
 tags:
 ---
 ## About me 
@@ -42,20 +42,18 @@ We revisit the keyhole region in the Carina nebula with velocity-resolved observ
 -  [[GroupB-hardwarecamp.pdf|The second Hardware camp for Fast and Low-Light detection]]
 ## M1 General Physics notes
 ### Semester 1
-1. [[M1 General Physics/Universe/Index|Universe]]
-2. [[M1 General Physics/Particle/Index|Particle]]
-3. [[M1 General Physics/Nuclei/Index|Nuclei]]
-4. [[M1 General Physics/Plasma/Index|Plasma]]
-5. [[M1 General Physics/Mathematical & Statistical Method/Index|Mathematical and statistical Physics]]
-6. [[M1 General Physics/Sensors, Measurements and Signal Processing/Index|Sensors, Measurement and Signal Processing]]
+1. [[content/M1 General Physics/Universe/Index|Universe]]
+2. [[content/M1 General Physics/Particle/Index|Particles]]
+3. [[content/M1 General Physics/Nuclei/Index|Nuclei]]
+4. [[content/M1 General Physics/Plasma/Index|Plasma]]
+5. [[content/M1 General Physics/Mathematical & Statistical Method/Index|Mathematical and statistical Physics]]
+6. [[content/M1 General Physics/Sensors, Measurements and Signal Processing/Index|Sensors, Measurement and Signal Processing]]
 7. Experimental Physics: [[Cosmology_Data_Analysis_M1_GP.pdf|Cosmology Data Analysis]]
 ### Semester 2
 1. [[content/M1 General Physics/General Relativity/Index|General Relativity And Cosmology]]
 2. Astroparticles & Astrophysics
 3. Quantum Field Theory
 4. [[Advanced_Mathematics_for_Physics.pdf|Group Theory]]
-
-*to be updated if i could find time :(((*
 ## M2 NPAC notes
 1. Experimental physics: CMB measurement with atmosphere zenith angle ?
 2. Detector physics

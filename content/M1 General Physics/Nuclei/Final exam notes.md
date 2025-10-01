@@ -158,12 +158,12 @@ $$
 $$
 a \dfrac{Z^2}{A^{1/3}} > b A^{2/3} \quad \Rightarrow \quad \text{fissility}:\dfrac{Z^2}{A} > 30
 $$
-	Only happens for heavy nuclei like $_{92}U$ or $Th$.
+**Only happens for heavy nuclei like $_{92}U$ or $Th$.**
 - For fusion or fission to happens $Q > 0$:
 $$
 \langle B/A\rangle_{\text{output}} > \langle B/A \rangle_{\text{input}}
 $$
-	The most stable nuclei is around $Fe$
+**The most stable nuclei is around $Fe$**
 
 ## Probing nuclei
 ### Kinematics

@@ -1,7 +1,6 @@
 ---
 title: 3. Friedmann equations
 ---
-
 Friedmann equations are two equations derived from Einstein field equations with the Cosmological principles:
 ### 1. Expansion rate equation
 $$
