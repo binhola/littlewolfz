@@ -16,7 +16,7 @@ My interest is Cosmology and Astrophysics. I also love mathematics and programmi
 
 **Result.** Using six-band simulated data for an LSST-like survey, we successfully developed a VAE to reconstruct isolated galaxies from blended scenes, along with a regressor that learns ellipticities from the latent space. The regressor outperforms the reconstruction by significantly reducing the bias toward round shapes that is present in the reconstructed images. We also applied the trained VAE and regressor to real DES data for evaluation.
 - Final Report: [[VAE_deblender_final_report_M1_GP_2025.pdf|Galaxy Deblending with VAE-Deblender]]
-- _Presented the talk_ "[[Rencontres_du_Vietnam_2025.pdf|Inference of Weak Lensing Parameters from Blended Galaxies using Generative Neural Networks]]" _at the Rencontres du Vietnam 2025 Cosmology Conference.
+- _Presented the talk_ "[Inference of Weak Lensing Parameters from Blended Galaxies using Generative Neural Networks](http://vietnam.in2p3.fr/2025/Cosmology/transparencies/3_wednesday/1_morning/5_nguyen_binh.pdf)" _at the Rencontres du Vietnam 2025 Cosmology Conference.
 #### **Bachelor thesis:** Characterization of Instrumental Effects for B-Mode Polarization Measurements of Cosmic Microwave Background.
 The Cosmic Microwave Background (CMB) polarization is a crucial tool for probing the mysteries of cosmic inflation through the measurement of primordial B-modes. Achieving this requires meticulous control over instrumental systematic effects. In this research, we present an instrumental model that focuses on two primary effects: intensity-to-polarization leakage and cross-polarization within a parametric component separation framework. 
 
