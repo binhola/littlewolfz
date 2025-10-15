@@ -30,11 +30,11 @@ Define Hermitian (physics) generators $J_i$ by
 $$
 R(\boldsymbol\theta) = e^{i \boldsymbol\theta\cdot \mathbf J}.
 $$
-Commutation relations (Lie algebra):
-$$
-[J_i, J_j] = i \epsilon_{ijk} J_k.
-$$
 
+And the generator is computed by:
+$$
+J_i = -i \dfrac{d\boldsymbol\theta}{d\theta_i} \huge|_{\theta_i = 0
+}$$
 **3×3 (vector) rep generators** (real antisymmetric form times $-i$ gives Hermitian):
 $$
 (J_x)_{3\times3} =
@@ -56,7 +56,10 @@ i & 0 & 0\\
 0 & 0 & 0
 \end{pmatrix}.
 $$
-(These satisfy $[J_i,J_j]=i\epsilon_{ijk}J_k$ and generate rotations on 3-vectors.)
+Commutation relations (Lie algebra):
+$$
+[J_i, J_j] = i \epsilon_{ijk} J_k.
+$$
 
 Finite rotation about unit axis $\mathbf n$ by angle $\theta$:
 $$
