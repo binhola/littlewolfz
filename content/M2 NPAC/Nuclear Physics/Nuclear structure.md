@@ -1,3 +1,7 @@
+---
+draft: true
+---
+
 #### Magic number
 - Magic number comes from spin-orbit coupling
 - Shell model of nuclei was developed
