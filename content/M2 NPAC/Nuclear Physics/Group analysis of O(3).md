@@ -76,11 +76,13 @@ A **representation** is a map
 $$
 \mathcal D: G \to GL(V)
 $$
+
 such that $\mathcal D(g_1 g_2)=\mathcal D(g_1)\mathcal D(g_2)$.  
 For Lie algebras, a rep is $d:\mathfrak g\to \mathrm{End}(V)$ preserving commutators:
 $$
 [d(X), d(Y)] = d([X,Y]).
 $$
+
 Exponentiate algebra reps to get group reps:
 $$
 \mathcal D(g)=\exp\big(i\theta\cdot d(\mathbf J)\big).
@@ -97,10 +99,12 @@ Casimir operator for $\mathfrak{so}(3)$:
 $$
 \mathbf J^2 = J_x^2 + J_y^2 + J_z^2.
 $$
+
 It commutes with all generators: $[\mathbf J^2, J_i]=0$. By Schur’s lemma, on an irreducible representation (irrep) it is scalar:
 $$
 \mathbf J^2 = j(j+1)\,\mathbb{1}.
 $$
+
 Label $j=0,\tfrac12,1,\tfrac32,\dots$; dimension $=2j+1$.
 - $j=0$: scalar (trivial rep), $\mathcal D=1$.
 - $j=1$: vector rep (3-dim) — the matrix exponentials above.
@@ -117,6 +121,7 @@ $$
 \sigma_2=\begin{pmatrix}0&-i\\ i&0\end{pmatrix},\quad
 \sigma_3=\begin{pmatrix}1&0\\0&-1\end{pmatrix}.
 $$
+
 They satisfy
 $$
 \left[\frac{\sigma_i}{2},\frac{\sigma_j}{2}\right]=i\epsilon_{ijk}\frac{\sigma_k}{2},\qquad
@@ -128,6 +133,7 @@ $$
 \mathcal D_{1/2}(R(\theta,\mathbf n)) = \exp\!\Big(i\frac{\theta}{2}\,\mathbf n\cdot\sigma\Big)
 = \cos\frac\theta2\,\mathbb{1}_2 + i\sin\frac\theta2\,\mathbf n\cdot\sigma.
 $$
+
 Acting on spinors $z=\begin{pmatrix}z_1\\z_2\end{pmatrix}$: $z'=\mathcal D_{1/2} z$.
 
 ---
