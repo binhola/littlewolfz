@@ -31,6 +31,7 @@ We estimate the upper limits for each parameter to meet the scientific requireme
 
 Our findings indicate that polarized data is essential for fully characterizing and calibrating all parameters in the HWP model. We further explore the potential of using drone-based fully polarized data for parameter constraints.
 -  Bachelor thesis: [[Bachelor_thesis_Binh.pdf|Instrumental systematic effects on CMB B-modes measurement]]
+- Presentation: [CMB Polarization Instrumental Systematic effects Presentation](https://docs.google.com/presentation/d/1z_uaC2ccFqmAQg6wQufI4w79JdhqdG58MkLrqlmWHV8/edit?usp=sharing)
 ### *Supermassive Black Hole Feedback on Galaxy Formation in IllustrisTNG Simulations*
 Supermassive black holes (SMBHs) with masses exceeding millions of solar masses are typically found at the centers of most galaxies in the local Universe (Kormendy & Ho 2013; Saglia et al. 2016). Acting as engines for feedback from Active Galactic Nuclei (AGN), accreting SMBHs release significant energy (~10²⁰ erg/s per gram), impacting galaxy formation and evolution. This SMBH feedback is integral to cosmological simulations of galaxy formation (Vogelsberger et al. 2019).
 
