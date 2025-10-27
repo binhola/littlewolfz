@@ -1,14 +1,17 @@
 ---
-title: My Friendly Neighborhood
+title: Binh's Hidden Universe 🤫
 tags:
-  - physics
+  - "#physics"
 ---
 ## About me 
-Hi! My name is Binh, and I’m from Vietnam. I’m currently a Master 2 student in _Nuclei, Particles, Astroparticles and Cosmology_, and I previously studied _General Physics_ at the University of Paris-Saclay in France.
+My name is **Binh**, and I’m from **Vietnam**.  
+I’m currently a **Master 2 student** in _Nuclei, Particles, Astroparticles and Cosmology_, and I previously studied _General Physics_ at the **University of Paris-Saclay** in France.
 
-I’m passionate about cosmology and astrophysics, and I have a soft spot for mathematics. I’m especially interested in working at the intersection of theoretical and observational cosmology, as well as in the applications of Bayesian statistics and deep learning to cosmological problems. Running simulations and making cool plots are also parts of the job that I really enjoy.
+I’m passionate about **cosmology** and **astrophysics**, with a soft spot for **mathematics**. I love exploring the intersection between **theoretical and observational cosmology**, especially through **Bayesian statistics** and **deep learning**. Running simulations, making cool plots, and understanding more about the **universe** are the parts of my work that excite me the most.
 
-In my free time, I read manga and watch movies, Christopher Nolan is my cinematic hero. I also love cats and swimming. Cooking is fun too… but onions and raw tomatoes are my Kryptonite.
+In my free time, I enjoy **reading manga**, **watching movies** (Christopher Nolan is my cinematic hero 🎬), and **swimming**. I also love **cats**, and while I like cooking, **onions** and **raw tomatoes** are my Kryptonite.
+
+This little corner of the internet is just to **back up some of my projects and notes** (if I’m not too lazy 😅) from my Master’s and Bachelor’s.
 ## Projects
 ### *M1 internship: Galaxy Deblending with VAE-Deblender* 
 **Context.** The upcoming data from the Legacy Survey of Space and Time (LSST) at the Vera C. Rubin Observatory is expected to be affected by blending in about two-thirds of galaxies—where light from physically separate galaxies overlaps. This blending reduces the number of galaxies usable for weak lensing studies, making deblending a critical challenge. 
@@ -20,7 +23,8 @@ In my free time, I read manga and watch movies, Christopher Nolan is my cinemati
 **Result.** Using six-band simulated data for an LSST-like survey, we successfully developed a VAE to reconstruct isolated galaxies from blended scenes, along with a regressor that learns ellipticities from the latent space. The regressor outperforms the reconstruction by significantly reducing the bias toward round shapes that is present in the reconstructed images. We also applied the trained VAE and regressor to real DES data for evaluation.
 - Final Report: [[VAE_deblender_final_report_M1_GP_2025.pdf|Galaxy Deblending with VAE-Deblender]]
 - _Presented the talk_ "[Inference of Weak Lensing Parameters from Blended Galaxies using Generative Neural Networks](http://vietnam.in2p3.fr/2025/Cosmology/transparencies/3_wednesday/1_morning/5_nguyen_binh.pdf)" _at the Rencontres du Vietnam 2025 Cosmology Conference.
-### **Bachelor thesis:** Characterization of Instrumental Effects for B-Mode Polarization Measurements of Cosmic Microwave Background.
+### Bachelor thesis: Characterization of Instrumental Effects for B-Mode Polarization Measurements of Cosmic Microwave Background.
+
 The Cosmic Microwave Background (CMB) polarization is a crucial tool for probing the mysteries of cosmic inflation through the measurement of primordial B-modes. Achieving this requires meticulous control over instrumental systematic effects. In this research, we present an instrumental model that focuses on two primary effects: intensity-to-polarization leakage and cross-polarization within a parametric component separation framework. 
 
 We estimate the upper limits for each parameter to meet the scientific requirements for next-generation CMB measurement. Using Markov Chain Monte Carlo (MCMC) methods to optimize the $\chi^2$ log-likelihood function, we constrain the parameters and estimate the data volume needed to reduce statistical errors within the upper limits of the parameters. We analyze unpolarized atmospheric data with and without the use of a half-wave plate (HWP). 
