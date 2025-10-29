@@ -75,13 +75,16 @@ The statistical limit of energy resolution is determined by the fluctuation in t
 	where $N$ is the average number of carriers, $F$ is **Fano** factor (for semiconductors, $F < 1$)
 - Steps:
 	1. Calculate the deposited energy: $$ \Delta E = \dfrac{dE}{dx} \times \Delta x $$
-	2. Calculate the average number of signal carriers: $$ 
+	2. Calculate the average number of signal carriers: 
+	
+	$$ 
 	\begin{aligned}
 	&\text{Semiconductor:} &N &= \Delta E \times (\text{e-h pairs/MeV}) \times (\text{Collection efficiency}) \\
 	&\text{Scintillator:} &N &= \Delta E \times (\text{photons/MeV}) \times (\text{Light collection eff.}) \times (\text{Quantum eff.})
 	\end{aligned} 
 	$$
-	3. Relative resolution
+	
+	1. Relative resolution
 
 ### Electromagnetic calorimetry
 The depth needed to contain an EM shower scales logarithmically with energy
