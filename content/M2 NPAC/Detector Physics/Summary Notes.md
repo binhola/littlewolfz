@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 ---
 ### Energy loss of particles in matter
 
@@ -118,4 +118,29 @@ Photon interacts via photoelectric effect, compton scattering and pair productio
 	- Wavelength shift: $$ \lambda' - \lambda = \dfrac{h}{m_e c} (1 -\cos \theta) $$
 	- Energy of scattered photon: $$E' = \dfrac{hc}{\lambda'}$$
 	- Energy of recoil electron: $$E_e = E - E'$$
-	
+### Collider
+**Luminosity:** number of particles per unit area per unit time
+$$
+L = \dfrac{f I_b^2}{4\pi S_x S_y}
+$$
+where
+- $f$ : the revolution frequency (number of bunch cross per second)
+- $I_b$ : number of particles per bunch
+- $S_x$ or $S_y$ : RMS width of beam in $x$-dir or $y$-dir
+
+**Number of events:**
+$$
+N = L \times \sigma
+$$
+
+**Rapidity:**
+$$
+y = \dfrac{1}{2} \ln \left( \dfrac{E + p_z}{E - p_z}\right) \approx - \ln \tan \dfrac{\theta}{2}
+$$
+where $\theta$ is polar angle from beam axis.
+
+### Tranverse momentum resolution
+$$
+\dfrac{\sigma(p_T)}{p_T} = \dfrac{\sigma_x p_T}{0.3 B L^2} \sqrt{\dfrac{720}{N + 4}}
+$$
+where $\sigma_x = \dfrac{\rm pitch}{\sqrt{12}}$ , $N$ is number of measurement points and $L$ is the track length.
