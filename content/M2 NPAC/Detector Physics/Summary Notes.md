@@ -48,7 +48,7 @@ Different subdetectors are used to measure a particle's momentum and identify it
 $$
 E(r) = \dfrac{U}{\ln (R_t/R_w)} \dfrac{1}{r}
 $$
-	where $U$ : applied voltage, $R_t$ : Tube radius, $R_w$ : wire radius
+where $U$ : applied voltage, $R_t$ : Tube radius, $R_w$ : wire radius
 - **Avalanche condition**: $E(r) > 30 \rm \, kV/cm$ 
 - **Polarity**: the central wire must be positive (anode) to attract $e^-$ and cause the avalanche near the wire for a fast, measurable signal.
 - **Gas type**:
@@ -107,7 +107,7 @@ $$
 $$
 p = \gamma m_0 v
 $$
-	For the same momentum, heavier particles have lower $\beta$ 
+For the same momentum, heavier particles have lower $\beta$ 
 - PID: Choose a radiator with a refractive index $n$ so that ligher particle (e.g. $\pi$) is above threshold ($\beta_\pi > 1/n$) and heavier like $K$ is below.
 
 ### Photon attenuation and Compton scattering
@@ -147,3 +147,14 @@ $$
 \dfrac{\sigma(p_T)}{p_T} = \dfrac{\sigma_x p_T}{0.3 B L^2} \sqrt{\dfrac{720}{N + 4}}
 $$
 where $\sigma_x = \dfrac{\rm pitch}{\sqrt{12}}$ , $N$ is number of measurement points and $L$ is the track length.
+### Radiation length
+Bremsstralung for electrons
+$$
+E = E_0 e^{-x / X_0}
+$$
+where $X_0$ is the radiation length.
+$$
+\dfrac{dE}{dx} = \dfrac{E}{X_0}
+$$
+
+

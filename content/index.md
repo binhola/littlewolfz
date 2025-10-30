@@ -5,7 +5,7 @@ tags:
 ---
 ## About me 
 My name is **Binh**, and I’m from **Vietnam**.  
-I’m currently a **Master 2 student** in _Nuclei, Particles, Astroparticles and Cosmology_, and I previously studied _General Physics_ at the **University of Paris-Saclay** in France.
+I’m currently a **Master 2 student** in [_Nuclei, Particles, Astroparticles and Cosmology_](https://npac.ijclab.in2p3.fr/), and I previously studied _General Physics_ at the **University of Paris-Saclay** in France.
 
 I’m passionate about **cosmology** and **astrophysics**, with a soft spot for **mathematics**. I love exploring the intersection between **theoretical and observational cosmology**, especially through **Bayesian statistics** and **deep learning**. Running simulations, making cool plots, and understanding more about the **universe** are the parts of my work that excite me the most.
 
