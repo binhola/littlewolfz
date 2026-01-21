@@ -1,17 +1,16 @@
 ---
 title: Binh's Hidden Universe 🤫
 tags:
-  - "#physics"
 ---
 ## About me 
-My name is **Binh**, and I’m from **Vietnam**.  
+My name is **Binh**, and I’m from **Vietnam**.
 I’m currently a **Master 2 student** in [_Nuclei, Particles, Astroparticles and Cosmology_](https://npac.ijclab.in2p3.fr/), and I previously studied _General Physics_ at the **University of Paris-Saclay** in France.
 
-I’m passionate about **cosmology** and **astrophysics**, with a soft spot for **mathematics**. I love exploring the intersection between **theoretical and observational cosmology**, especially through **Bayesian statistics** and **deep learning**. Running simulations, making cool plots, and understanding more about the **universe** are the parts of my work that excite me the most.
+I’m passionate about **cosmology** and **astrophysics**, and I am particularly interested in **mathematics**. I love exploring the intersection between **theoretical and observational cosmology**, especially through **Bayesian statistics** and **deep learning**. Running simulations, making cool plots, and understanding more about the **universe** are the parts of my work that excite me the most.
 
-In my free time, I enjoy **reading manga**, **watching movies** (Christopher Nolan is my cinematic hero 🎬), and **swimming**. I also love **cats**, and while I like cooking, **onions** and **raw tomatoes** are my Kryptonite.
+In my free time, I enjoy **reading manga**, **watching movies** (Christopher Nolan is my cinematic hero 🎬) and **swimming**. 
 
-This little corner of the internet is just to **back up some of my projects and notes** (if I’m not too lazy 😅) from my Master’s and Bachelor’s.
+This personal website is a small corner where I back up some of my projects and notes from my Master’s and Bachelor’s studies. **My projects are well documented**, and I welcome anyone interested to take a look. **My notes, on the other hand, are primarily for personal use**: they do not cover everything and were written to meet course requirements rather than out of personal interest, so they are not suitable as references.
 ## Projects
 ### *M1 internship: Galaxy Deblending with VAE-Deblender* 
 **Context.** The upcoming data from the Legacy Survey of Space and Time (LSST) at the Vera C. Rubin Observatory is expected to be affected by blending in about two-thirds of galaxies—where light from physically separate galaxies overlaps. This blending reduces the number of galaxies usable for weak lensing studies, making deblending a critical challenge. 
@@ -30,7 +29,7 @@ The Cosmic Microwave Background (CMB) polarization is a crucial tool for probing
 We estimate the upper limits for each parameter to meet the scientific requirements for next-generation CMB measurement. Using Markov Chain Monte Carlo (MCMC) methods to optimize the $\chi^2$ log-likelihood function, we constrain the parameters and estimate the data volume needed to reduce statistical errors within the upper limits of the parameters. We analyze unpolarized atmospheric data with and without the use of a half-wave plate (HWP). 
 
 Our findings indicate that polarized data is essential for fully characterizing and calibrating all parameters in the HWP model. We further explore the potential of using drone-based fully polarized data for parameter constraints.
--  Bachelor thesis: [[Bachelor_thesis_Binh.pdf|Instrumental systematic effects on CMB B-modes measurement]]
+- Bachelor thesis: [[Bachelor_thesis_Binh.pdf|Instrumental systematic effects on CMB B-modes measurement]]
 - Presentation: [CMB Polarization Instrumental Systematic effects Presentation](https://docs.google.com/presentation/d/1z_uaC2ccFqmAQg6wQufI4w79JdhqdG58MkLrqlmWHV8/edit?usp=sharing)
 ### *Supermassive Black Hole Feedback on Galaxy Formation in IllustrisTNG Simulations*
 Supermassive black holes (SMBHs) with masses exceeding millions of solar masses are typically found at the centers of most galaxies in the local Universe (Kormendy & Ho 2013; Saglia et al. 2016). Acting as engines for feedback from Active Galactic Nuclei (AGN), accreting SMBHs release significant energy (~10²⁰ erg/s per gram), impacting galaxy formation and evolution. This SMBH feedback is integral to cosmological simulations of galaxy formation (Vogelsberger et al. 2019).
@@ -46,6 +45,9 @@ We revisit the keyhole region in the Carina nebula with velocity-resolved observ
 - [[Presentation_carina_keyhole.pdf|Presentation Carina Keyhole]]
 ### *Other works*
 -  [[GroupB-hardwarecamp.pdf|The second Hardware camp for Fast and Low-Light detection]]
+- [[CMB_measurements.pdf|Cosmic Microwave Background temperature measurement]]
+- [[cosmological_lithium.pdf|Cosmological Lithium Problem]]
+- [[Calibration_presentation.pdf|NPAC Calibration Gitlab Project]]
 ## M1 General Physics notes
 ### Semester 1
 #### Universe
